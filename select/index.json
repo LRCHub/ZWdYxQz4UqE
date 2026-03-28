@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "恋",
+  "base_artist": "back number",
+  "createdAt": "2026-03-28T05:25:39.598636Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_恋_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_恋_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/03_恋_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_恋_back_number.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋! ハレイション THE WAR",
+      "artist": "ワルキューレ",
+      "has_synced": false,
+      "path": "select/05_恋!_ハレイション_THE_WAR_ワルキューレ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋! ハレイション THE WAR~without Freyja~",
+      "artist": "ワルキューレ/(美雲ΔJUNNA/カナメΔ安野希世乃/レイナΔ東山奈央/マキナΔ西田望見)",
+      "has_synced": false,
+      "path": "select/06_恋!_ハレイション_THE_WAR~without_Freyja~_ワルキューレ_(美雲ΔJUNNA_カナメΔ安野希世乃_レイナΔ東山奈央_マキナΔ西田望見).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/07_恋_Uru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋! ハレイション THE WAR~album version~",
+      "artist": "ワルキューレ/(美雲ΔJUNNA/フレイアΔ鈴木みのり/カナメΔ安野希世乃/レイナΔ東山奈央/マキナΔ西田望見)",
+      "has_synced": true,
+      "path": "select/08_恋!_ハレイション_THE_WAR~album_version~_ワルキューレ_(美雲ΔJUNNA_フレイアΔ鈴木みのり_カナメΔ安野希世乃_レイナΔ東山奈央_マキナΔ西田望見).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋! ハレイション THE WAR～Album Version～",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/09_恋!_ハレイション_THE_WAR~Album_Version~_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "はじめまして、恋。",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/10_はじめまして、恋。_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/11_恋_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/12_恋_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "吉田 美奈子",
+      "has_synced": false,
+      "path": "select/13_恋_吉田_美奈子.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "石川ひとみ",
+      "has_synced": false,
+      "path": "select/14_恋_石川ひとみ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "Hitomi Ishikawa (石川ひとみ)",
+      "has_synced": false,
+      "path": "select/15_恋_Hitomi_Ishikawa_(石川ひとみ).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "松山千春",
+      "has_synced": true,
+      "path": "select/16_恋_松山千春.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "恋",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/17_恋_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_恋_back_number.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "恋",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/localdb_01_恋_back_number.lrc",
+      "repo_name": "euBPUj8CkbA"
+    }
+  ]
+}
